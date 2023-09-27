@@ -4,10 +4,22 @@ Este é um projeto de um gerador de senha forte em React Native, que permite ger
 
 # 👥 Confira:
 
-<img src="./assets/resultado/part1.jpg" >
-<img src="./assets/resultado/part2.jpg" >
-<img src="./assets/resultado/part3.jpg" >
-<img src="./assets/resultado/part4.jpg" >
+### Processo de Geração de Senha
+
+<ul style="list-style-type:none; display:flex; justify-content:space-between;">
+  <li>
+    <img src="./assets/resultado/part1.jpg" alt="Tela 1" width="200" />
+    <p align="center">Tela 1</p>
+  </li>
+  <li>
+    <img src="./assets/resultado/part2.jpg" alt="Tela 2" width="200" />
+    <p align="center">Tela 2</p>
+  </li>
+  <li>
+    <img src="./assets/resultado/part3.jpg" alt="Tela 3" width="200" />
+    <p align="center">Tela 3</p>
+  </li>
+</ul>
 
 ## Estrutura do Projeto
 
