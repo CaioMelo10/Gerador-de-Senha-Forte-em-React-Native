@@ -53,4 +53,3 @@ Aqui está uma visão geral do código do projeto:
 - O componente "Passwords" exibe todas as senhas previamente geradas e permite a exclusão delas.
 - O componente "PasswordItem" exibe cada senha na tela de senhas, com a opção de removê-la por um longo período de pressionamento.
 
-Esse é um exemplo de um aplicativo simples de gerador e armazenamento de senhas em React Native. Você pode estender e personalizar esse código para atender às suas necessidades específicas.
